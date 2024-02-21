@@ -1,1 +1,1 @@
-# modern-app
+# ModernApp application
